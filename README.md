@@ -12,7 +12,7 @@ Here we have project screenshot :
 ![screenshot](image.png)
 
 Raw Image:-
-![screenshot](image.jpg)
+![screenshot](a-beautiful-view-4k-gj-3840x2160.jpg)
 
 # Features:
 Modern Design: Sleek and visually appealing design for a professional look.
